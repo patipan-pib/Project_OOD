@@ -142,6 +142,7 @@ docker-compose up --build -d
 
 ```
 ### โครงสร้างโฟลเดอร์
+```bash
 your-repo-name/
 ├── frontend/
 │   ├── public/
@@ -170,3 +171,4 @@ your-repo-name/
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md
+```
